@@ -1,6 +1,8 @@
 {
 	"bold_folder_labels": true,
-	"caret_extra_width": 1,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
@@ -41,15 +43,12 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"MagicPython"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"match_brackets_content": false,
 	"match_selection": false,
 	"match_tags": false,
-	"material_theme_accent_graphite": true,
-	"material_theme_compact_sidebar": true,
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
 	"preview_on_click": false,
@@ -60,10 +59,32 @@
 	"show_errors_inline": false,
 	"show_full_path": false,
 	"sidebar_default": true,
-	"theme": "Material-Theme-Darker.sublime-theme",
+	// "theme": "Material-Theme-Darker.sublime-theme",
+	"theme": "Seti_orig.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true,
 	"vintage_start_in_command_mode": true,
-	"word_wrap": true
+	"word_wrap": true,
+
+	// tabs
+	"Seti_tabs_small": true,                   // tabs height = 35
+	// "Seti_tabs_med": true,                     // tabs height = 40
+	// "Seti_tabs_big": true,                    // tabs height = 54
+	"Seti_tabs_no_min_width": true,              // (issues/223)
+	"Seti_tab_font_12": true,                   // tab font size = 12
+	// "mouse_wheel_tabswitch": true,              // scroll through opened tabs
+	// "Seti_no_scroll_icons": true,               // remove the l/r arrows, effective when ("enable_tab_scrolling": true)
+	// "Seti_no_under_bar": true,                  // remove the small colored bar under the un-saved tabs "not available with accents"
+	"Seti_bold_slctdtab_labels": true,          // make active tab label font in bold
+	// "Seti_use_system_title_bar": true// use the new tabset feature (>=3127)
+	// padding
+	"Seti_sb_small_padding": true,           // sidebar entries padding = 3
+	// "Seti_sb_big_padding": true,             // sidebar entries padding = 10
+	// "Seti_sb_tree_med": true,                // sidebar tree padding = 15
+	// "Seti_sb_tree_small": true,              // sidebar tree padding = 10
+	// "Seti_sb_tree_tiny": true,               // (issues/88)
+	"Seti_sb_tree_miny": true,               // (issues/88)
+	// "Seti_show_group_arrows": true          // show the folder/group arrows in sidebar
+
 }
