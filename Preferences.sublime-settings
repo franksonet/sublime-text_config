@@ -41,7 +41,6 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Jedi - Python autocompletion",
 		"MagicPython"
 	],
 	"line_padding_bottom": 1,
