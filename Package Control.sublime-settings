@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"A File Icon",
+		"Anaconda",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Git",
+		"GitGutter",
+		"Jedi - Python autocompletion",
+		"MagicPython",
+		"Material Theme",
+		"Package Control",
+		"Predawn",
+		"SideBarEnhancements",
+		"Theme - Flatland",
+		"Theme - Soda SolarizedDark"
+	]
+}
